@@ -4336,6 +4336,7 @@
       "pumpkin_pie": "2025-03-08 18:11:10 +0000",
       "bread": "2025-03-08 00:55:39 +0000",
       "golden_carrot": "2025-03-10 07:24:17 +0000",
+      "enchanted_golden_apple": "2025-03-10 07:36:42 +0000",
       "carrot": "2025-03-08 18:41:16 +0000"
     },
     "done": false
@@ -9773,6 +9774,7 @@
       "betternether:nether_swampland": "2025-03-10 07:28:18 +0000",
       "betternether:crimson_glowing_woods": "2025-03-10 05:55:16 +0000",
       "betternether:nether_jungle": "2025-03-09 03:56:34 +0000",
+      "betternether:nether_swampland_terraces": "2025-03-10 07:35:01 +0000",
       "betternether:old_warped_woods": "2025-03-10 07:05:04 +0000"
     },
     "done": false
@@ -10656,6 +10658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/crimson_boat": {
     "criteria": {
       "has_crimson_planks": "2025-03-10 07:15:04 +0000"
@@ -10683,6 +10691,12 @@
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-03-10 07:04:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-03-10 07:39:07 +0000"
     },
     "done": true
   },
@@ -10731,6 +10745,12 @@
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-03-10 07:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
     },
     "done": true
   },
@@ -10800,6 +10820,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-03-10 06:03:51 +0000"
@@ -10860,6 +10892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-10 07:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
@@ -10875,6 +10913,12 @@
   "nethersdelight:recipes/food/hoglin_sirloin": {
     "criteria": {
       "hoglin_sirloin": "2025-03-10 06:33:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-03-10 07:43:21 +0000"
     },
     "done": true
   },
@@ -10926,6 +10970,12 @@
     },
     "done": true
   },
+  "charm:kilns/recipes/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-03-10 06:44:56 +0000"
@@ -10941,6 +10991,12 @@
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-03-10 06:11:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-03-10 07:39:07 +0000"
     },
     "done": true
   },
@@ -11028,6 +11084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-10 07:43:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-03-10 05:20:35 +0000"
@@ -11055,6 +11117,18 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-03-10 07:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
     },
     "done": true
   },
@@ -11091,6 +11165,12 @@
   "decorative_blocks:recipes/building_blocks/warped_palisade": {
     "criteria": {
       "has_log": "2025-03-10 07:33:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
     },
     "done": true
   },
@@ -11142,6 +11222,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-03-10 07:43:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_crimson": {
     "criteria": {
       "has_the_recipe": "2025-03-10 07:15:04 +0000"
@@ -11151,6 +11237,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-03-10 07:39:17 +0000"
     },
     "done": true
   },
@@ -11262,6 +11354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-03-10 07:15:04 +0000"
@@ -11283,6 +11381,12 @@
   "betternether:recipes/building_blocks/cincinnasite_tile_small": {
     "criteria": {
       "has_cincinnasite_tile_large": "2025-03-10 07:22:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-03-10 07:43:21 +0000"
     },
     "done": true
   },
@@ -11370,6 +11474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_bench": {
     "criteria": {
       "has_crimson_bench": "2025-03-10 07:15:04 +0000"
@@ -11379,6 +11489,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-03-10 07:43:21 +0000"
     },
     "done": true
   },
@@ -11403,6 +11519,24 @@
   "twigs:recipes/bloodstone/bloodstone_wall": {
     "criteria": {
       "has_item": "2025-03-10 06:44:56 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-03-10 07:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-10 07:45:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-03-10 07:38:47 +0000"
     },
     "done": true
   },
