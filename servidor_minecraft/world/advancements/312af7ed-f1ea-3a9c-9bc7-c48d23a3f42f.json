@@ -8026,6 +8026,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_spruce_chest": {
+    "criteria": {
+      "has_chest": "2025-03-10 03:18:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_bowl_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-10 03:19:20 +0000"
@@ -8056,33 +8062,9 @@
     },
     "done": true
   },
-  "charm:vanilla_wood_variants/recipes/trapped_spruce_chest": {
-    "criteria": {
-      "has_chest": "2025-03-10 03:18:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-03-10 03:19:20 +0000"
-    },
-    "done": true
-  },
-  "charm:azalea_wood/recipes/trapped_azalea_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
-    },
-    "done": true
-  },
-  "charm:vanilla_wood_variants/recipes/trapped_jungle_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
-    },
-    "done": true
-  },
-  "charm:vanilla_wood_variants/recipes/trapped_birch_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
     },
     "done": true
   },
@@ -8095,12 +8077,6 @@
   "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-03-10 03:19:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
     },
     "done": true
   },
@@ -8188,6 +8164,48 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-03-10 03:19:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-03-10 03:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-03-10 03:19:20 +0000"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/trapped_azalea_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_jungle_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_birch_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/trapped_warped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
@@ -8212,27 +8230,9 @@
     },
     "done": true
   },
-  "nethersdelight:recipes/tools/diamond_machete": {
-    "criteria": {
-      "has_diamond": "2025-03-10 03:19:20 +0000"
-    },
-    "done": true
-  },
   "charm:vanilla_wood_variants/recipes/trapped_crimson_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-03-10 03:44:44 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
-    "criteria": {
-      "has_item.minecraft.diamond": "2025-03-10 03:19:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2025-03-10 03:19:20 +0000"
     },
     "done": true
   },
