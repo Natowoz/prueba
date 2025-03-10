@@ -10731,6 +10731,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-03-10 05:24:30 +0000"
+    },
+    "done": true
+  },
   "hybrid-aquatic:recipes/combat/diving_helmet": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
