@@ -9222,9 +9222,10 @@
       "minecraft:crimson_forest": "2025-03-10 06:20:48 +0000",
       "minecraft:nether_wastes": "2025-03-09 03:47:56 +0000",
       "minecraft:soul_sand_valley": "2025-03-09 04:38:17 +0000",
-      "minecraft:basalt_deltas": "2025-03-09 03:47:23 +0000"
+      "minecraft:basalt_deltas": "2025-03-09 03:47:23 +0000",
+      "minecraft:warped_forest": "2025-03-10 06:24:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_stonecutting": {
     "criteria": {
@@ -10721,6 +10722,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/hoglin_sirloin": {
+    "criteria": {
+      "hoglin_sirloin": "2025-03-10 06:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
@@ -10829,6 +10836,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-03-10 06:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-03-10 05:24:30 +0000"
@@ -10886,6 +10899,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-03-10 06:33:20 +0000"
     },
     "done": true
   },
