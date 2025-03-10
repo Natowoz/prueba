@@ -8242,5 +8242,50 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:flooded_deltas": "2025-03-10 05:22:17 +0000",
+      "betternether:nether_jungle": "2025-03-10 05:22:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-10 05:16:36 +0000",
+      "minecraft:soul_sand_valley": "2025-03-10 05:22:37 +0000",
+      "minecraft:basalt_deltas": "2025-03-10 05:15:48 +0000"
+    },
+    "done": false
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-03-10 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-10 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-10 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-03-10 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-10 05:15:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

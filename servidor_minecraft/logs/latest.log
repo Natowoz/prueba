@@ -2221,3 +2221,15 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [05:08:17] [Netty Epoll Server IO #0/INFO]: Receiving client config
 [05:08:21] [Netty Epoll Server IO #0/INFO]: Channel update: XxNeitanxX -> default
 [05:08:21] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:15:46] [Server thread/INFO]: No return portal found
+[05:15:47] [Worker-Main-1/INFO]: Starting feature recycler...
+[05:15:47] [Worker-Main-1/INFO]: Finished recycling features. Took 33ms
+[05:15:48] [Server thread/INFO]: No return portal found
+[05:15:48] [Server thread/INFO]: XxNeitanxX has made the advancement [We Need to Go Deeper]
+[05:15:48] [Server thread/INFO]: XxNeitanxX has made the advancement [Time for a Sweat]
+[05:17:56] [Server thread/WARN]: XxNeitanxX moved wrongly!
+[05:21:43] [Server thread/WARN]: Gyrodyne (vehicle of XxNeitanxX) moved wrongly! 0.2799381755894501
+[05:21:57] [Server thread/WARN]: XxNeitanxX moved wrongly!
+[05:24:30] [Server thread/INFO]: Blukrash has made the advancement [Oh Shiny]
+[05:24:47] [Server thread/WARN]: Blukrash moved wrongly!
+[05:24:49] [Server thread/WARN]: XxNeitanxX moved wrongly!
