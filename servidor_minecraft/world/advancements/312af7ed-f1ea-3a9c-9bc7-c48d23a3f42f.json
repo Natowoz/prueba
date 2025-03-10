@@ -2750,6 +2750,7 @@
       "minecraft:pillager": "2025-03-08 18:02:37 +0000",
       "minecraft:blaze": "2025-03-10 05:37:22 +0000",
       "minecraft:skeleton": "2025-03-08 01:15:05 +0000",
+      "minecraft:magma_cube": "2025-03-10 05:43:47 +0000",
       "minecraft:spider": "2025-03-08 01:38:46 +0000",
       "minecraft:creeper": "2025-03-08 20:48:18 +0000",
       "minecraft:evoker": "2025-03-08 01:16:37 +0000",
@@ -8537,6 +8538,12 @@
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-03-10 05:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-10 05:47:38 +0000"
     },
     "done": true
   },
