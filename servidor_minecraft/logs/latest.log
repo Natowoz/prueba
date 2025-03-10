@@ -2248,3 +2248,10 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [06:02:21] [Server thread/WARN]: XxNeitanxX moved wrongly!
 [06:03:52] [Server thread/INFO]: Blukrash has made the advancement [A Terrible Fortress]
 [06:03:54] [Server thread/INFO]: XxNeitanxX has made the advancement [A Terrible Fortress]
+[06:10:48] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[06:11:10] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[06:13:27] [Server thread/INFO]: XxNeitanxX has made the advancement [Ice Bucket Challenge]
+[06:14:57] [Server thread/INFO]: Blukrash withered away
+[06:15:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:15:27] [Server thread/INFO]: tp blukrash xxneitanxx<--[HERE]
+[06:15:38] [Server thread/INFO]: Teleported Blukrash to XxNeitanxX

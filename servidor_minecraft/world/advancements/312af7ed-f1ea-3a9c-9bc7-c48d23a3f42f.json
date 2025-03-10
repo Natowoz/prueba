@@ -2755,6 +2755,7 @@
       "minecraft:creeper": "2025-03-08 20:48:18 +0000",
       "minecraft:evoker": "2025-03-08 01:16:37 +0000",
       "minecraft:witch": "2025-03-08 18:10:08 +0000",
+      "minecraft:wither_skeleton": "2025-03-10 06:05:37 +0000",
       "minecraft:enderman": "2025-03-08 22:13:20 +0000",
       "minecraft:zombie": "2025-03-08 00:40:59 +0000",
       "minecraft:zombie_villager": "2025-03-08 18:02:29 +0000"
@@ -8369,6 +8370,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-10 06:13:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-03-10 05:32:08 +0000"
@@ -8405,6 +8412,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-03-10 06:11:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_forge": {
     "criteria": {
       "has_nether_bricks": "2025-03-10 05:32:08 +0000"
@@ -8420,6 +8433,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-10 05:32:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-10 06:13:27 +0000"
     },
     "done": true
   },
@@ -8444,6 +8463,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_plates_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-10 05:32:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-10 06:13:27 +0000"
     },
     "done": true
   },
@@ -8501,6 +8526,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-10 06:13:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-03-10 05:37:00 +0000"
@@ -8552,6 +8583,12 @@
   "betternether:recipes/misc/bn_red_mushroom": {
     "criteria": {
       "has_wall_mushroom_red": "2025-03-10 05:38:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-10 06:13:27 +0000"
     },
     "done": true
   },
@@ -8633,9 +8670,21 @@
     },
     "done": false
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-10 06:13:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-03-10 05:25:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-10 06:13:27 +0000"
     },
     "done": true
   },
@@ -8669,6 +8718,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-03-10 06:03:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 05:25:27 +0000"
@@ -8687,6 +8742,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-10 06:13:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 05:25:27 +0000"
@@ -8696,6 +8757,12 @@
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_nether_bricks": "2025-03-10 05:32:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-10 06:13:27 +0000"
     },
     "done": true
   },
@@ -8711,9 +8778,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-10 06:11:58 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:nether_structures": {
     "criteria": {
       "example": "2025-03-10 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-10 06:11:58 +0000"
     },
     "done": true
   },
@@ -8729,9 +8808,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-10 06:13:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 05:25:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-03-10 06:13:27 +0000"
     },
     "done": true
   },
@@ -8765,9 +8856,21 @@
     },
     "done": true
   },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-03-10 06:11:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 05:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-10 06:13:27 +0000"
     },
     "done": true
   },
