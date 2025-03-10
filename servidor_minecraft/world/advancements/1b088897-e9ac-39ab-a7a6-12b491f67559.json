@@ -9219,6 +9219,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-10 06:20:48 +0000",
       "minecraft:nether_wastes": "2025-03-09 03:47:56 +0000",
       "minecraft:soul_sand_valley": "2025-03-09 04:38:17 +0000",
       "minecraft:basalt_deltas": "2025-03-09 03:47:23 +0000"
@@ -9761,6 +9762,7 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:upside_down_forest_cleared": "2025-03-10 06:14:41 +0000",
       "betternether:flooded_deltas": "2025-03-09 03:54:10 +0000",
       "betternether:crimson_pinewood": "2025-03-10 05:56:54 +0000",
       "betternether:crimson_glowing_woods": "2025-03-10 05:55:16 +0000",
@@ -10120,7 +10122,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_warped": "2025-03-09 04:49:39 +0000"
+      "in_mineshaft_warped": "2025-03-09 04:49:39 +0000",
+      "in_mineshaft_crimson": "2025-03-10 06:21:41 +0000"
     },
     "done": false
   },
@@ -10772,6 +10775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-10 06:22:16 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/crimson_palisade": {
     "criteria": {
       "has_log": "2025-03-10 05:55:39 +0000"
@@ -10814,6 +10823,12 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-10 06:21:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-03-10 05:24:30 +0000"
@@ -10847,6 +10862,12 @@
   "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
     "criteria": {
       "has_item": "2025-03-10 05:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-10 06:14:32 +0000"
     },
     "done": true
   },
@@ -10907,6 +10928,12 @@
   "betternether:recipes/food/herbal_medicine": {
     "criteria": {
       "has_nether_wart": "2025-03-10 06:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-10 06:14:32 +0000"
     },
     "done": true
   },

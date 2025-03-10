@@ -2255,3 +2255,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [06:15:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [06:15:27] [Server thread/INFO]: tp blukrash xxneitanxx<--[HERE]
 [06:15:38] [Server thread/INFO]: Teleported Blukrash to XxNeitanxX
+[06:15:50] [Server thread/WARN]: XxNeitanxX moved wrongly!
+[06:24:29] [Server thread/INFO]: Blukrash has completed the challenge [Hot Tourist Destinations]
+[06:25:18] [Server thread/INFO]: Teleported XxNeitanxX to Blukrash
