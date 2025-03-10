@@ -9093,40 +9093,123 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_stonecutting": {
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
+      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/warped_support": {
+  "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
-      "has_plank": "2025-03-09 05:02:09 +0000"
+      "has_obsidian": "2025-03-09 03:37:30 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
     "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
+      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
     },
     "done": true
   },
-  "charm:vanilla_wood_variants/recipes/chiseled_warped_bookshelf": {
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
+      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
     },
     "done": true
   },
-  "betternether:all_the_biomes": {
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
-      "betternether:flooded_deltas": "2025-03-09 03:54:10 +0000",
-      "betternether:nether_jungle": "2025-03-09 03:56:34 +0000"
+      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
     "criteria": {
-      "has_block.minecraft.basalt": "2025-03-09 03:48:03 +0000"
+      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-09 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-03-09 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-09 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-09 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-03-09 03:42:09 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-03-09 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-09 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-09 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-03-09 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-09 03:47:18 +0000"
     },
     "done": true
   },
@@ -9138,75 +9221,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_stonecutting": {
     "criteria": {
-      "has_ancient_debris": "2025-03-09 04:29:22 +0000"
+      "has_basalt": "2025-03-09 03:48:03 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
+  "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
     "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+      "has_basalt": "2025-03-09 03:48:03 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+  "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
     "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-03-09 04:49:46 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_mushroom_planks": {
-    "criteria": {
-      "has_nether_mushroom_stem": "2025-03-09 04:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-03-09 05:00:38 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/basalt_stalactite_basalt": {
-    "criteria": {
-      "has_basalt_stalactite": "2025-03-09 03:53:58 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
-    "criteria": {
-      "has_item.betternether.cincinnasite": "2025-03-09 03:52:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-03-09 03:56:46 +0000"
+      "has_block.minecraft.basalt": "2025-03-09 03:48:03 +0000"
     },
     "done": true
   },
@@ -9216,63 +9245,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_warped": {
-    "criteria": {
-      "has_the_recipe": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-03-09 03:50:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-09 03:38:15 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/warped_shroomlamp": {
-    "criteria": {
-      "has_item": "2025-03-09 05:06:20 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/warped_table": {
-    "criteria": {
-      "has_bamboo": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "charm:kilns/recipes/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
     },
     "done": true
   },
@@ -9282,141 +9257,15 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/nether_brick_smoker": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-03-09 05:30:52 +0000"
-    },
-    "done": true
-  },
-  "bygonenether:root": {
-    "criteria": {
-      "entered_nether": "2025-03-09 03:47:18 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_brick": {
-    "criteria": {
-      "has_item": "2025-03-09 04:06:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-03-09 04:49:46 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/crimson_shroomlamp": {
-    "criteria": {
-      "has_item": "2025-03-09 05:06:20 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_shelf": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-09 03:48:03 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_table": {
-    "criteria": {
-      "has_warped_table": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_glowstone_dust": {
-    "criteria": {
-      "has_glowstone_pile": "2025-03-09 04:05:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/warped_barrel": {
-    "criteria": {
-      "has_warped_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-03-09 05:02:16 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/infusion_pedestal": {
-    "criteria": {
-      "has_obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_nightstand": {
-    "criteria": {
-      "has_warped_nightstand": "2025-03-09 05:02:09 +0000"
     },
     "done": true
   },
@@ -9438,63 +9287,15 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/farmland": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/warped_chest": {
-    "criteria": {
-      "has_warped_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_bench": {
-    "criteria": {
-      "has_warped_bench": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-09 03:48:03 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_fancy_bed": {
-    "criteria": {
-      "has_warped_fancy_bed": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-03-09 03:47:18 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_forge": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
     },
     "done": true
   },
@@ -9510,6 +9311,602 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_slab_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_shingle_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_furnace": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_basalt_slab": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tile_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_paver_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plate_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plates_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_paver_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-09 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-03-09 03:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-03-09 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-03-09 03:51:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-03-09 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-03-09 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-03-09 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_stalactite_basalt": {
+    "criteria": {
+      "has_basalt_stalactite": "2025-03-09 03:53:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:flooded_deltas": "2025-03-09 03:54:10 +0000",
+      "betternether:nether_jungle": "2025-03-09 03:56:34 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-03-09 03:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-09 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-09 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-09 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_glowstone_dust": {
+    "criteria": {
+      "has_glowstone_pile": "2025-03-09 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_mushroom_planks": {
+    "criteria": {
+      "has_nether_mushroom_stem": "2025-03-09 04:05:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_nether_mushroom_stem": "2025-03-09 04:05:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_warped": "2025-03-09 05:00:25 +0000",
+      "got_nether_mushroom": "2025-03-09 04:05:54 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-03-09 04:06:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-03-09 04:06:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-03-09 04:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-09 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:the_lethal_towers": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-03-09 04:19:23 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-03-09 04:19:23 +0000"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_forge": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-03-09 04:19:50 +0000"
@@ -9522,69 +9919,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_slab_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_basalt_brick_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_warped": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/basalt_slab_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_brick_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_side_table": {
-    "criteria": {
-      "has_warped_side_table": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_chair": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
     },
     "done": true
   },
@@ -9600,63 +9937,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_chair": {
-    "criteria": {
-      "has_warped_chair": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_sign": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-03-09 03:50:43 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
-    "criteria": {
-      "has_item.betternether.cincinnasite": "2025-03-09 03:52:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-03-09 05:02:16 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "variantcraftingtables:recipes/misc/warped_crafting_table": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
     },
     "done": true
   },
@@ -9672,105 +9955,9 @@
     },
     "done": true
   },
-  "charm:kilns/recipes/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_dining_bench": {
-    "criteria": {
-      "has_warped_dining_bench": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-03-09 03:42:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_pillar_trim": {
-    "criteria": {
-      "has_warped_pillar_trim": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_desk": {
-    "criteria": {
-      "has_warped_desk": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_corner_trim": {
-    "criteria": {
-      "has_warped_corner_trim": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_smelting": {
-    "criteria": {
-      "has_item.minecraft.quartz": "2025-03-09 03:50:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-03-09 04:40:20 +0000"
-    },
-    "done": true
-  },
-  "charm:extra_recipes/recipes/cyan_dye": {
-    "criteria": {
-      "has_warped_roots": "2025-03-09 05:00:07 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-09 04:49:46 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_lantern": {
-    "criteria": {
-      "has_glowstone": "2025-03-09 05:30:52 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_couch": {
-    "criteria": {
-      "has_warped_couch": "2025-03-09 05:02:09 +0000"
     },
     "done": true
   },
@@ -9792,202 +9979,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/warped_seat": {
-    "criteria": {
-      "has_plank": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_pot": {
-    "criteria": {
-      "has_soul_sand": "2025-03-09 04:40:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_counter": {
-    "criteria": {
-      "has_warped_counter": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-03-09 05:00:38 +0000"
-    },
-    "done": true
-  },
-  "quartzelv:recipes/building_blocks/quartz_elevator": {
-    "criteria": {
-      "has_quartz": "2025-03-09 03:50:43 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:the_lethal_towers": {
-    "criteria": {
-      "nether_fortress_large_1": "2025-03-09 04:19:23 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_brown_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_brown": "2025-03-09 05:04:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/brick_pot": {
-    "criteria": {
-      "has_soul_sand": "2025-03-09 04:40:20 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_warped": "2025-03-09 04:49:39 +0000"
-    },
-    "done": false
-  },
-  "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-03-09 05:06:20 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_shingle_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-03-09 05:06:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-03-09 04:40:20 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_red_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_red": "2025-03-09 04:06:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-03-09 04:29:22 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-03-09 03:50:43 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
-    "criteria": {
-      "has_nether_mushroom_stem": "2025-03-09 04:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-03-09 03:50:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-03-09 05:02:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:nether_wood": {
-    "criteria": {
-      "got_warped": "2025-03-09 05:00:25 +0000",
-      "got_nether_mushroom": "2025-03-09 04:05:54 +0000"
-    },
-    "done": false
-  },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-03-09 03:50:43 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/basalt_furnace": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/warped_crafting_table": {
-    "criteria": {
-      "has_warped_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/basalt_basalt_slab": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
     },
     "done": true
   },
@@ -10003,39 +9997,9 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
-    "criteria": {
-      "has_soul_sand": "2025-03-09 04:40:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
-    "criteria": {
-      "has_item": "2025-03-09 05:00:07 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_shelf": {
-    "criteria": {
-      "has_warped_shelf": "2025-03-09 05:02:09 +0000"
     },
     "done": true
   },
@@ -10045,111 +10009,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-03-09 04:49:46 +0000"
-    },
-    "done": true
-  },
-  "betternether:enter_nether": {
-    "criteria": {
-      "entered_nether": "2025-03-09 03:47:18 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:fireproof": {
-    "criteria": {
-      "nether_fortress_large_1": "2025-03-09 04:19:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/netherrack_furnace": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-03-09 04:08:35 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_tile_slab_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-03-09 05:00:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/chiseled_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_table": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
     },
     "done": true
   },
@@ -10159,111 +10021,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_paver_slab_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_cupboard": {
-    "criteria": {
-      "has_warped_cupboard": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_block": {
-    "criteria": {
-      "has_cincinnasite": "2025-03-09 03:52:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/bricks_fire_bowl": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-03-09 05:02:15 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_warped": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "charm:vanilla_wood_variants/recipes/warped_barrel": {
-    "criteria": {
-      "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
-    "criteria": {
-      "has_soul_sand": "2025-03-09 04:40:20 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_plate_slab_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
     },
     "done": true
   },
@@ -10279,15 +10039,27 @@
     },
     "done": true
   },
-  "twigs:recipes/schist/schist": {
+  "betternether:recipes/decorations/cincinnasite_anvil": {
     "criteria": {
-      "has_item": "2025-03-09 03:50:43 +0000"
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite": {
+  "stoneworks:recipes/building_blocks/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2025-03-09 03:50:43 +0000"
+      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-09 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-09 04:29:22 +0000"
     },
     "done": true
   },
@@ -10297,9 +10069,321 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
+      "has_soul_sand": "2025-03-09 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-03-09 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-03-09 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-09 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-03-09 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-03-09 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-03-09 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_warped": "2025-03-09 04:49:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-09 04:49:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-09 04:49:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-09 04:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-09 04:49:46 +0000"
+    },
+    "done": true
+  },
+  "charm:extra_recipes/recipes/cyan_dye": {
+    "criteria": {
+      "has_warped_roots": "2025-03-09 05:00:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-03-09 05:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-03-09 05:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-09 05:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-09 05:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-09 05:00:38 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/warped_support": {
+    "criteria": {
+      "has_plank": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_warped_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_the_recipe": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/warped_table": {
+    "criteria": {
+      "has_bamboo": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_shelf": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_barrel": {
+    "criteria": {
+      "has_warped_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_warped_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_chair": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/warped_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/warped_seat": {
+    "criteria": {
+      "has_plank": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_crafting_table": {
+    "criteria": {
+      "has_warped_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_table": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_warped": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/warped_barrel": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:02:09 +0000"
     },
     "done": true
   },
@@ -10315,123 +10399,15 @@
     },
     "done": true
   },
-  "charm:smooth_glowstone/recipes/smooth_glowstone": {
-    "criteria": {
-      "has_glowstone": "2025-03-09 05:30:52 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:nether_structures": {
-    "criteria": {
-      "example": "2025-03-09 03:47:18 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_anvil": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-03-09 05:23:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-03-09 05:02:09 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
-    "criteria": {
-      "has_block.minecraft.obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-03-09 05:02:09 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-03-09 03:50:43 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile": {
-    "criteria": {
-      "has_obsidian": "2025-03-09 03:37:30 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-03-09 04:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-03-09 03:47:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-03-09 05:06:20 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
-    "criteria": {
-      "has_netherrack_stalactite": "2025-03-09 03:56:40 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_plates_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_paver_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/lapis_pile_to_lapis": {
-    "criteria": {
-      "has_lapis_pile": "2025-03-09 03:51:13 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
     },
     "done": true
   },
@@ -10447,51 +10423,63 @@
     },
     "done": true
   },
-  "twigs:recipes/silt/silt_from_silt_balls": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "has_item": "2025-03-09 04:06:32 +0000"
+      "has_warped_fungus": "2025-03-09 05:02:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_basalt": "2025-03-09 03:48:03 +0000"
+      "has_rail": "2025-03-09 05:02:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_blaze_rod": "2025-03-09 05:00:38 +0000"
+      "has_rail": "2025-03-09 05:02:16 +0000"
     },
     "done": true
   },
-  "twigs:recipes/bloodstone/bloodstone": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_item": "2025-03-09 03:50:43 +0000"
+      "has_rail": "2025-03-09 05:02:16 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+  "betternether:recipes/misc/bn_brown_mushroom": {
     "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
+      "has_wall_mushroom_brown": "2025-03-09 05:04:06 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+  "twigs:recipes/lamps/warped_shroomlamp": {
     "criteria": {
-      "has_netherrack": "2025-03-09 03:48:04 +0000"
+      "has_item": "2025-03-09 05:06:20 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+  "twigs:recipes/lamps/crimson_shroomlamp": {
     "criteria": {
-      "has_soul_sand": "2025-03-09 04:40:20 +0000"
+      "has_item": "2025-03-09 05:06:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
-      "has_obsidian": "2025-03-09 03:37:30 +0000"
+      "has_shroomlight": "2025-03-09 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-03-09 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-03-09 05:06:20 +0000"
     },
     "done": true
   },
@@ -10501,15 +10489,27 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/dragon_bone_block": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_bone_block": "2025-03-09 03:56:46 +0000"
+      "traded": "2025-03-09 05:23:21 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/bn_bone_block": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_bone_block": "2025-03-09 03:56:46 +0000"
+      "has_glowstone": "2025-03-09 05:30:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-03-09 05:30:52 +0000"
+    },
+    "done": true
+  },
+  "charm:smooth_glowstone/recipes/smooth_glowstone": {
+    "criteria": {
+      "has_glowstone": "2025-03-09 05:30:52 +0000"
     },
     "done": true
   },
