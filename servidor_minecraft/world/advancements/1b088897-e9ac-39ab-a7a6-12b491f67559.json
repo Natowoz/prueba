@@ -3040,11 +3040,13 @@
       "minecraft:pillager": "2025-03-08 18:04:11 +0000",
       "minecraft:blaze": "2025-03-09 05:00:29 +0000",
       "minecraft:skeleton": "2025-03-08 00:46:56 +0000",
+      "minecraft:hoglin": "2025-03-10 07:23:02 +0000",
       "minecraft:magma_cube": "2025-03-10 05:43:07 +0000",
       "minecraft:spider": "2025-03-08 18:06:02 +0000",
       "minecraft:creeper": "2025-03-08 20:03:04 +0000",
       "minecraft:wither_skeleton": "2025-03-10 06:06:12 +0000",
       "minecraft:piglin": "2025-03-09 03:51:48 +0000",
+      "minecraft:enderman": "2025-03-10 07:08:39 +0000",
       "minecraft:zombie": "2025-03-08 18:06:30 +0000",
       "minecraft:zombie_villager": "2025-03-08 01:45:36 +0000"
     },
@@ -9767,7 +9769,8 @@
       "betternether:flooded_deltas": "2025-03-09 03:54:10 +0000",
       "betternether:crimson_pinewood": "2025-03-10 05:56:54 +0000",
       "betternether:crimson_glowing_woods": "2025-03-10 05:55:16 +0000",
-      "betternether:nether_jungle": "2025-03-09 03:56:34 +0000"
+      "betternether:nether_jungle": "2025-03-09 03:56:34 +0000",
+      "betternether:old_warped_woods": "2025-03-10 07:05:04 +0000"
     },
     "done": false
   },
@@ -10650,9 +10653,39 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/crimson_boat": {
+    "criteria": {
+      "has_crimson_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_support": {
+    "criteria": {
+      "has_plank": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-10 07:04:02 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/crimson_chest": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
     },
     "done": true
   },
@@ -10662,9 +10695,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/polished_bloodstone": {
     "criteria": {
       "has_item": "2025-03-10 06:44:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-10 07:03:59 +0000"
     },
     "done": true
   },
@@ -10692,9 +10743,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_crimson_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-10 07:03:59 +0000"
     },
     "done": true
   },
@@ -10716,15 +10797,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-03-10 06:44:56 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-10 07:04:02 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-03-10 07:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "charm:storage_blocks/recipes/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-10 07:03:59 +0000"
     },
     "done": true
   },
@@ -10764,9 +10875,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2025-03-10 07:14:59 +0000"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/crimson_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
     },
     "done": true
   },
@@ -10818,6 +10953,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/crimson_shelf": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-03-10 06:11:10 +0000"
@@ -10833,6 +10974,18 @@
   "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
     "criteria": {
       "has_amethyst_shard": "2025-03-10 06:11:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_crimson_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2025-03-10 07:15:04 +0000"
     },
     "done": true
   },
@@ -10866,6 +11019,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
@@ -10884,15 +11043,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_crimson": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-10 06:11:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-10 07:04:02 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
     "criteria": {
       "has_item": "2025-03-10 06:21:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
     },
     "done": true
   },
@@ -10908,6 +11097,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/crimson_barrel": {
+    "criteria": {
+      "has_crimson_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "hybrid-aquatic:recipes/combat/diving_helmet": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
@@ -10917,6 +11112,12 @@
   "spawn:recipes/ant/ant_farm_from_coarse_dirt": {
     "criteria": {
       "has_raw_item": "2025-03-10 04:49:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-03-10 07:15:04 +0000"
     },
     "done": true
   },
@@ -10932,9 +11133,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "charm:clear_item_frames/make_clear_item_frame": {
     "criteria": {
       "made_clear_item_frame": "2025-03-10 06:37:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2025-03-10 07:15:04 +0000"
     },
     "done": true
   },
@@ -10947,6 +11160,36 @@
   "twigs:recipes/bloodstone/bloodstone_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-03-10 06:44:56 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_seat": {
+    "criteria": {
+      "has_plank": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-10 07:04:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-03-10 07:03:59 +0000"
     },
     "done": true
   },
@@ -10974,9 +11217,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_tile_large": "2025-03-10 07:22:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_small": {
+    "criteria": {
+      "has_cincinnasite_tile_large": "2025-03-10 07:22:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2025-03-10 07:15:04 +0000"
     },
     "done": true
   },
@@ -10998,6 +11271,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-10 07:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
@@ -11010,15 +11295,51 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/crimson_table": {
+    "criteria": {
+      "has_bamboo": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/tined_glass_from_smaragdant": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/crimson_barrel": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_table": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-10 07:15:04 +0000"
     },
     "done": true
   },
