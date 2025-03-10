@@ -2755,6 +2755,7 @@
       "minecraft:spider": "2025-03-08 01:38:46 +0000",
       "minecraft:creeper": "2025-03-08 20:48:18 +0000",
       "minecraft:evoker": "2025-03-08 01:16:37 +0000",
+      "minecraft:zombified_piglin": "2025-03-10 06:37:59 +0000",
       "minecraft:witch": "2025-03-08 18:10:08 +0000",
       "minecraft:wither_skeleton": "2025-03-10 06:05:37 +0000",
       "minecraft:enderman": "2025-03-08 22:13:20 +0000",
@@ -8308,9 +8309,27 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 06:37:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 05:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 06:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 06:37:11 +0000"
     },
     "done": true
   },
@@ -8371,6 +8390,12 @@
   "twigs:recipes/lamps/crimson_shroomlamp": {
     "criteria": {
       "has_item": "2025-03-10 05:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-03-10 06:35:38 +0000"
     },
     "done": true
   },
@@ -8452,6 +8477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-10 06:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-10 05:32:08 +0000"
@@ -8494,6 +8525,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 06:37:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 05:25:27 +0000"
@@ -8512,9 +8549,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 06:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-10 05:32:08 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 06:37:11 +0000"
     },
     "done": true
   },
@@ -8563,6 +8612,12 @@
   "betternether:recipes/misc/bn_brown_mushroom": {
     "criteria": {
       "has_wall_mushroom_brown": "2025-03-10 05:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-10 06:37:11 +0000"
     },
     "done": true
   },

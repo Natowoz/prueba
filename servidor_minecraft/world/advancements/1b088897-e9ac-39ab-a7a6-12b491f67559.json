@@ -10698,6 +10698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-03-10 06:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-10 05:04:25 +0000"
@@ -10725,6 +10731,12 @@
   "nethersdelight:recipes/food/hoglin_sirloin": {
     "criteria": {
       "hoglin_sirloin": "2025-03-10 06:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-10 06:35:51 +0000"
     },
     "done": true
   },
@@ -10869,6 +10881,12 @@
   "hearth_and_home:recipes/barred_glass": {
     "criteria": {
       "has_item": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "charm:clear_item_frames/make_clear_item_frame": {
+    "criteria": {
+      "made_clear_item_frame": "2025-03-10 06:37:14 +0000"
     },
     "done": true
   },
