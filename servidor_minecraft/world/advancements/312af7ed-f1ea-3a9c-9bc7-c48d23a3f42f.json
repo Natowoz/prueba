@@ -2942,6 +2942,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-10 07:00:11 +0000",
       "chorus_fruit": "2025-03-08 00:47:36 +0000",
       "baked_potato": "2025-03-08 01:42:12 +0000",
       "beef": "2025-03-08 20:34:16 +0000",
@@ -8693,6 +8694,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-10 06:54:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-10 06:45:16 +0000"
@@ -8768,6 +8775,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-10 06:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-10 06:54:30 +0000"
     },
     "done": true
   },
@@ -9060,6 +9073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-10 07:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-03-10 06:03:54 +0000"
@@ -9297,6 +9316,12 @@
   "betternether:recipes/food/herbal_medicine": {
     "criteria": {
       "has_nether_wart": "2025-03-10 06:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-10 07:00:18 +0000"
     },
     "done": true
   },
