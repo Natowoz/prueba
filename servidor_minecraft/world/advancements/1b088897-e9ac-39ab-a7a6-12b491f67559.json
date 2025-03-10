@@ -3043,6 +3043,7 @@
       "minecraft:hoglin": "2025-03-10 07:23:02 +0000",
       "minecraft:magma_cube": "2025-03-10 05:43:07 +0000",
       "minecraft:spider": "2025-03-08 18:06:02 +0000",
+      "minecraft:piglin_brute": "2025-03-10 07:27:23 +0000",
       "minecraft:creeper": "2025-03-08 20:03:04 +0000",
       "minecraft:wither_skeleton": "2025-03-10 06:06:12 +0000",
       "minecraft:piglin": "2025-03-09 03:51:48 +0000",
@@ -4334,6 +4335,7 @@
       "potato": "2025-03-08 18:51:32 +0000",
       "pumpkin_pie": "2025-03-08 18:11:10 +0000",
       "bread": "2025-03-08 00:55:39 +0000",
+      "golden_carrot": "2025-03-10 07:24:17 +0000",
       "carrot": "2025-03-08 18:41:16 +0000"
     },
     "done": false
@@ -9768,6 +9770,7 @@
       "betternether:upside_down_forest_cleared": "2025-03-10 06:14:41 +0000",
       "betternether:flooded_deltas": "2025-03-09 03:54:10 +0000",
       "betternether:crimson_pinewood": "2025-03-10 05:56:54 +0000",
+      "betternether:nether_swampland": "2025-03-10 07:28:18 +0000",
       "betternether:crimson_glowing_woods": "2025-03-10 05:55:16 +0000",
       "betternether:nether_jungle": "2025-03-09 03:56:34 +0000",
       "betternether:old_warped_woods": "2025-03-10 07:05:04 +0000"
@@ -10683,6 +10686,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-10 07:24:36 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/crimson_chest": {
     "criteria": {
       "has_planks": "2025-03-10 07:15:04 +0000"
@@ -10698,6 +10707,12 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-10 07:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-10 07:24:36 +0000"
     },
     "done": true
   },
@@ -10935,6 +10950,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-10 07:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-03-10 05:55:39 +0000"
@@ -11067,6 +11088,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/warped_palisade": {
+    "criteria": {
+      "has_log": "2025-03-10 07:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-03-10 07:04:02 +0000"
@@ -11181,9 +11208,21 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-10 07:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-03-10 07:04:02 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-10 07:24:36 +0000"
     },
     "done": true
   },
@@ -11262,6 +11301,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-03-10 06:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-10 07:33:08 +0000"
     },
     "done": true
   },
