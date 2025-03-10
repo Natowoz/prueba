@@ -2202,3 +2202,13 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04:53:10] [Netty Epoll Server IO #6/INFO]: Receiving client config
 [04:53:13] [Netty Epoll Server IO #6/INFO]: Channel update: XxNeitanxX -> default
 [04:53:13] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:57:47] [Server thread/INFO]: <XxNeitanxX> se bugueo el discord
+[04:57:56] [Server thread/INFO]: <Blukrash> xd
+[04:59:23] [Server thread/WARN]: Blukrash moved wrongly!
+[04:59:42] [Server thread/WARN]: XxNeitanxX moved wrongly!
+[05:01:10] [Server thread/WARN]: Blukrash moved wrongly!
+[05:01:12] [Server thread/WARN]: XxNeitanxX moved wrongly!
+[05:02:54] [Server thread/INFO]: XxNeitanxX lost connection: Timed out
+[05:02:54] [Server thread/INFO]: XxNeitanxX left the game
+[05:02:54] [Server thread/INFO]: Updating all forceload tickets for 312af7ed-f1ea-3a9c-9bc7-c48d23a3f42f
+[05:02:54] [Server thread/WARN]: handleDisconnection() called twice
