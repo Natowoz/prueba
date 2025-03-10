@@ -2058,3 +2058,10 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [03:55:22] [Server thread/WARN]: Blukrash moved wrongly!
 [03:56:41] [Server thread/WARN]: Blukrash moved wrongly!
 [04:00:29] [Server thread/WARN]: Blukrash moved wrongly!
+[04:04:27] [Server thread/WARN]: Blukrash moved wrongly!
+[04:04:55] [Server thread/INFO]: XxNeitanxX lost connection: Disconnected
+[04:04:55] [Server thread/INFO]: XxNeitanxX left the game
+[04:04:55] [Server thread/INFO]: Updating all forceload tickets for 312af7ed-f1ea-3a9c-9bc7-c48d23a3f42f
+[04:05:21] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[04:05:44] [Server thread/WARN]: Blukrash moved wrongly!
+[04:07:33] [Server thread/WARN]: Blukrash moved wrongly!

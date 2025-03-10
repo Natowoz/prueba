@@ -2758,11 +2758,13 @@
       "minecraft:cherry_grove": "2025-03-08 17:59:52 +0000",
       "minecraft:windswept_hills": "2025-03-08 19:32:02 +0000",
       "minecraft:badlands": "2025-03-08 20:01:11 +0000",
+      "minecraft:savanna_plateau": "2025-03-10 04:06:12 +0000",
       "minecraft:beach": "2025-03-08 00:52:13 +0000",
       "minecraft:mangrove_swamp": "2025-03-08 19:32:52 +0000",
       "minecraft:sparse_jungle": "2025-03-08 19:30:26 +0000",
       "minecraft:river": "2025-03-08 00:58:33 +0000",
       "minecraft:stony_shore": "2025-03-08 01:12:04 +0000",
+      "minecraft:dripstone_caves": "2025-03-10 04:12:21 +0000",
       "minecraft:cold_ocean": "2025-03-08 00:51:53 +0000",
       "minecraft:forest": "2025-03-08 00:52:26 +0000",
       "minecraft:deep_cold_ocean": "2025-03-08 19:25:00 +0000",
@@ -10576,6 +10578,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-03-10 03:10:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-03-10 03:59:10 +0000"
     },
     "done": true
   },
