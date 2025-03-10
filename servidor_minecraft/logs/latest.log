@@ -2177,3 +2177,28 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04:22:39] [Netty Epoll Server IO #1/INFO]: Receiving client config
 [04:22:42] [Netty Epoll Server IO #1/INFO]: Channel update: XxNeitanxX -> default
 [04:22:42] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:39:59] [Server thread/INFO]: Blukrash lost connection: Disconnected
+[04:39:59] [Server thread/INFO]: Blukrash left the game
+[04:39:59] [Server thread/INFO]: Updating all forceload tickets for 1b088897-e9ac-39ab-a7a6-12b491f67559
+[04:40:06] [Server thread/INFO]: Blukrash[/100.104.65.18:57940] logged in with entity id 60030 at (17589.894615000838, -62.0, 4439.50044567919)
+[04:40:06] [Server thread/INFO]: Sending server config values to client
+[04:40:06] [Server thread/INFO]: Syncing config to Blukrash (1b088897-e9ac-39ab-a7a6-12b491f67559)
+[04:40:06] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:40:06] [Server thread/INFO]: Blukrash joined the game
+[04:40:06] [Server thread/INFO]: Updating all forceload tickets for 1b088897-e9ac-39ab-a7a6-12b491f67559
+[04:40:07] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[04:40:09] [Netty Epoll Server IO #4/INFO]: Channel update: Blukrash -> default
+[04:47:50] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[04:51:48] [Server thread/WARN]: Blukrash moved wrongly!
+[04:53:05] [Server thread/INFO]: XxNeitanxX lost connection: Disconnected
+[04:53:05] [Server thread/INFO]: XxNeitanxX left the game
+[04:53:05] [Server thread/INFO]: Updating all forceload tickets for 312af7ed-f1ea-3a9c-9bc7-c48d23a3f42f
+[04:53:10] [Server thread/INFO]: XxNeitanxX[/100.118.206.101:52496] logged in with entity id 65528 at (17229.980798318607, 64.0, 5034.161979035976)
+[04:53:10] [Server thread/INFO]: Sending server config values to client
+[04:53:10] [Server thread/INFO]: Syncing config to XxNeitanxX (312af7ed-f1ea-3a9c-9bc7-c48d23a3f42f)
+[04:53:10] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:53:10] [Server thread/INFO]: XxNeitanxX joined the game
+[04:53:10] [Server thread/INFO]: Updating all forceload tickets for 312af7ed-f1ea-3a9c-9bc7-c48d23a3f42f
+[04:53:10] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[04:53:13] [Netty Epoll Server IO #6/INFO]: Channel update: XxNeitanxX -> default
+[04:53:13] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
