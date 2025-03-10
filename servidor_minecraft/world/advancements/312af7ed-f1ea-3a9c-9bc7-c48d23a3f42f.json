@@ -8026,5 +8026,11 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_spruce_chest": {
+    "criteria": {
+      "has_chest": "2025-03-10 03:18:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
