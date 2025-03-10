@@ -8247,6 +8247,8 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:flooded_deltas": "2025-03-10 05:22:17 +0000",
+      "betternether:crimson_pinewood": "2025-03-10 05:57:08 +0000",
+      "betternether:crimson_glowing_woods": "2025-03-10 05:55:17 +0000",
       "betternether:nether_jungle": "2025-03-10 05:22:21 +0000"
     },
     "done": false
@@ -8307,6 +8309,12 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-03-10 05:55:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-10 05:32:08 +0000"
@@ -8352,6 +8360,12 @@
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2025-03-10 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-03-10 05:55:57 +0000"
     },
     "done": true
   },
@@ -8517,9 +8531,21 @@
     },
     "done": false
   },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-03-10 05:55:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-03-10 05:25:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-03-10 05:55:57 +0000"
     },
     "done": true
   },
@@ -8718,6 +8744,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-10 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-03-10 05:55:57 +0000"
     },
     "done": true
   },
