@@ -3040,6 +3040,7 @@
       "minecraft:pillager": "2025-03-08 18:04:11 +0000",
       "minecraft:blaze": "2025-03-09 05:00:29 +0000",
       "minecraft:skeleton": "2025-03-08 00:46:56 +0000",
+      "minecraft:magma_cube": "2025-03-10 05:43:07 +0000",
       "minecraft:spider": "2025-03-08 18:06:02 +0000",
       "minecraft:creeper": "2025-03-08 20:03:04 +0000",
       "minecraft:piglin": "2025-03-09 03:51:48 +0000",
@@ -10758,6 +10759,12 @@
   "hearth_and_home:recipes/barred_glass": {
     "criteria": {
       "has_item": "2025-03-10 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-10 05:43:13 +0000"
     },
     "done": true
   },
