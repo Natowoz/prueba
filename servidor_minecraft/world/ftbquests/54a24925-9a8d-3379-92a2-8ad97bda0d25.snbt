@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "54a249259a8d337992a28ad97bda0d25"
+	name: "MefistSama#54a24925"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

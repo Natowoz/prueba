@@ -1,0 +1,17 @@
+{
+	id: "83fdb4e0-9781-38ef-a7c6-6739d43dcb23"
+	type: "player"
+	player_name: "XxTeemoxX"
+	ranks: {
+		83fdb4e0-9781-38ef-a7c6-6739d43dcb23: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "XxTeemoxX"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
