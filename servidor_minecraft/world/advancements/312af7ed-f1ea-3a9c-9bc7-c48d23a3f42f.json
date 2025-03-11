@@ -2950,6 +2950,7 @@
       "apple": "2025-03-08 00:42:43 +0000",
       "potato": "2025-03-08 01:41:09 +0000",
       "bread": "2025-03-08 00:50:18 +0000",
+      "golden_apple": "2025-03-10 07:59:07 +0000",
       "rotten_flesh": "2025-03-08 00:49:47 +0000",
       "golden_carrot": "2025-03-10 07:11:48 +0000",
       "enchanted_golden_apple": "2025-03-10 07:31:46 +0000",
@@ -9269,6 +9270,12 @@
   "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-03-10 05:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-03-10 07:59:10 +0000"
     },
     "done": true
   },
