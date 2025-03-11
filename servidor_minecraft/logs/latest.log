@@ -1924,3 +1924,17 @@ EdenBiomeSource (56c0f5d7)
 [21:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9291ms or 185 ticks behind
 [21:24:11] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [21:24:11] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[21:33:36] [Netty Epoll Server IO #2/WARN]: @ModifyConstant conflict. Skipping connectivity.mixins.json:PacketEncoderMixin from mod connectivity->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/class_2596;Lio/netty/buffer/ByteBuf;)I with priority 1000, already redirected by packetfixer-common.mixins.json:PacketEncoderMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 9999
+[21:33:36] [Netty Epoll Server IO #3/WARN]: @ModifyConstant conflict. Skipping connectivity.mixins.json:ClientboundCustomPayloadPacketMixin from mod connectivity->@ModifyConstant::modifyLimit(I)I with priority 1, already redirected by packetfixer-common.mixins.json:ClientboundCustomPayloadPacketMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 9999
+[21:33:36] [Netty Epoll Server IO #3/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
+[21:33:36] [Netty Epoll Server IO #3/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
+[21:33:36] [Netty Epoll Server IO #3/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
+[21:33:37] [Server thread/INFO]: Blukrash[/100.104.65.18:50202] logged in with entity id 110 at (17339.503125188898, 76.5625, 5046.05455094133)
+[21:33:37] [Server thread/INFO]: Sending server config values to client
+[21:33:38] [Server thread/INFO]: Syncing config to Blukrash (1b088897-e9ac-39ab-a7a6-12b491f67559)
+[21:33:38] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[21:33:45] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:33:45] [Server thread/INFO]: Blukrash joined the game
+[21:33:45] [Server thread/INFO]: Updating all forceload tickets for 1b088897-e9ac-39ab-a7a6-12b491f67559
+[21:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7613ms or 152 ticks behind
+[21:33:46] [Netty Epoll Server IO #3/INFO]: Channel update: Blukrash -> default
